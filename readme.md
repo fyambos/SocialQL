@@ -1,6 +1,6 @@
 # SocialQL
 
-SocialQL est un réseau social divisé en deux parties : le serveur GraphQL (Backend) et le client Front-End (Frontend). Le serveur utilise Apollo Server, Prisma et GraphQL Codegen pour gérer les données et les requêtes GraphQL, tandis que le client utilise un framework moderne comme React, Vue ou Svelte avec Apollo Client pour la communication avec le serveur.
+SocialQL est un réseau social où les utilisateurs peuvent s'inscrire, publier des articles, commenter les publications d'autres utilisateurs, et "liker" des articles. Il est divisé en deux parties : le serveur GraphQL (Backend) et le client Front-End (Frontend). Le serveur utilise Apollo Server, Prisma et GraphQL Codegen pour gérer les données et les requêtes GraphQL, tandis que le client utilise un framework moderne comme React, Vue ou Svelte avec Apollo Client pour la communication avec le serveur.
 
 ## Structure du Projet
 
